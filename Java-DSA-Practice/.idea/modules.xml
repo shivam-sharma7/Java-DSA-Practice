@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays2D_02.1/Arrays2D_02.1.iml" filepath="$PROJECT_DIR$/Arrays2D_02.1/Arrays2D_02.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays_02/Arrays_02.iml" filepath="$PROJECT_DIR$/Arrays_02/Arrays_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Bootcamp.iml" filepath="$PROJECT_DIR$/Java Bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear_Search_03/Linear_Search_03.iml" filepath="$PROJECT_DIR$/Linear_Search_03/Linear_Search_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns_01/Patterns_01.iml" filepath="$PROJECT_DIR$/Patterns_01/Patterns_01.iml" />
+    </modules>
+  </component>
+</project>
