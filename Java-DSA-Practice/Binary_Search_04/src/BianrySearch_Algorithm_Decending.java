@@ -2,11 +2,12 @@ public class BianrySearch_Algorithm_Decending {
 
     public static void main(String[] args) {
 
-        int [] arr = {12, 9, 6, 5, 3, 2, -1};
+        int [] arr = {12, 9, 6, 5, 3, -1};
 
         int target = 9;
 
         System.out.println(binary_search(arr, target));
+
     }
 
      static int binary_search(int [] arr, int target) {

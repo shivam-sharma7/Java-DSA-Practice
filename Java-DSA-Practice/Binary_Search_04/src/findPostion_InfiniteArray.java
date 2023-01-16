@@ -43,9 +43,13 @@ public class findPostion_InfiniteArray {
             if (target == arr[mid]) {
 
                 return mid;
-            } else if (target > arr[mid]) {
+
+            }
+            else if (target > arr[mid]) {
                 start = mid + 1;
-            } else {
+            }
+
+            else {
 
                 end = mid - 1;
             }

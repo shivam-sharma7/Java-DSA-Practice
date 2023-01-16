@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-DSA-Practice/Arrays2D_02.1/Arrays2D_02.1.iml" filepath="$PROJECT_DIR$/Java-DSA-Practice/Arrays2D_02.1/Arrays2D_02.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-DSA-Practice/Arrays_02/Arrays_02.iml" filepath="$PROJECT_DIR$/Java-DSA-Practice/Arrays_02/Arrays_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-DSA-Practice/Binary_Search_04/Binary_Search_04.iml" filepath="$PROJECT_DIR$/Java-DSA-Practice/Binary_Search_04/Binary_Search_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA Practice.iml" filepath="$PROJECT_DIR$/.idea/DSA Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-DSA-Practice/Linear_Search_03/Linear_Search_03.iml" filepath="$PROJECT_DIR$/Java-DSA-Practice/Linear_Search_03/Linear_Search_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Lecture/OOP_Lecture.iml" filepath="$PROJECT_DIR$/OOP_Lecture/OOP_Lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-DSA-Practice/Patterns_01/Patterns_01.iml" filepath="$PROJECT_DIR$/Java-DSA-Practice/Patterns_01/Patterns_01.iml" />
+    </modules>
+  </component>
+</project>

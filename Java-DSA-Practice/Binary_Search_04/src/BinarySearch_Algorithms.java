@@ -8,6 +8,7 @@ public class BinarySearch_Algorithms {
         int target = 14;
 
         System.out.println(binary_Search(arr, target));
+
     }
 
     static int binary_Search(int [] arr, int target){
